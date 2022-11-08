@@ -4,5 +4,6 @@ Download the .zip then run the program...
 Then Set the Speed and Key to stroke
 
 ### To use this you need to set the speed
-# speed 1 (FAST)
-# speed 1000 (SLOW)
+# Interval (MS) 1 (FAST)
+# Interval (MS) 1000 (SLOW)
+##### (MS) stands for milla secs. Dont be scarid
